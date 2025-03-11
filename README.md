@@ -1,9 +1,21 @@
 # All Watched Over By Machines Of Loving Grace
+![Screenshot 1](all.png)
 
-An interactive web installation featuring Richard Brautigan's poem "All Watched Over by Machines of Loving Grace" with AI-generated visuals. Part of the "Duets in Latent Space" series.
+An interactive web environment featuring Richard Brautigan's poem "All Watched Over by Machines of Loving Grace" with AI-generated visuals. Part of the ["Duets in Latent Space"](https://marlonbarrios.github.io/duets-in-latent-space/) series.
+
+## Live App
+[View Live Project](https://marlonbarrios.github.io/alwatchedoverbymachinesoflovinggrace/)
+
+## Video Documentation
+[Watch on YouTube](https://www.youtube.com/watch?v=W_RUBs1IsCw)
+
+![Screenshot 2](all2.png)
 
 ## Description
 This piece combines AI-generated video with Richard Brautigan's voice reading his iconic 1967 poem. The installation features synchronized scrolling text and an interactive element linking to an analysis of the poem's significance in the context of AI development.
+
+## About Duets in Latent Space
+This work is part of ["Duets in Latent Space"](https://marlonbarrios.github.io/duets-in-latent-space/), a series of live collaborations between the artist and machine learning models. The series explores the enigmatic latent space through various forms of input - movements, sounds, and digital interactions - generating visual, auditory, and textual outputs in real-time.
 
 ## Credits
 - Concept & Development: Marlon Barrios Solano
@@ -18,15 +30,15 @@ This piece combines AI-generated video with Richard Brautigan's voice reading hi
 - Responsive design that scales to window size
 - Interactive clickable area linking to further reading
 
-## Installation
-1. Clone this repository
-2. Serve the files using a local web server
-3. Open index.html in a web browser
-
 ## Usage
 - Spacebar: Play/Pause video
 - Click center of video: Opens article about the poem
 - Window can be resized while maintaining aspect ratio
+
+## Local Development
+1. Clone this repository
+2. Serve the files using a local web server
+3. Open index.html in a web browser
 
 ## License
 MIT License
